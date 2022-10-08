@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\dldil\Downloads\TextToEmoji\TextToDiscordEmoji.main.jar</jar>
+  <outfile>C:\Users\dldil\Downloads\TextToEmoji\TextToEmoji.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\dldil\Downloads\TextToEmoji\res\exportassets\icon.ico</icon>
+  <jre>
+    <path>C:\Users\dldil\Downloads\TextToEmoji\dev\jdk-17.0.3.7-hotspot</path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <bundledJreAsFallback>false</bundledJreAsFallback>
+    <minVersion></minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+  </jre>
+  <messages>
+    <startupErr>So uhh, this app failed to start and we dont know why. Contact me somewhere i guess...</startupErr>
+    <bundledJreErr>so you need java... - This application requires a Java Runtime Environment.</bundledJreErr>
+    <jreVersionErr>This application requires a Java Runtime Environment</jreVersionErr>
+    <launcherErr>The registry refers to a nonexistent Java Runtime Environment installation or the runtime is corrupted.</launcherErr>
+    <instanceAlreadyExistsMsg>hey, im already running :D</instanceAlreadyExistsMsg>
+  </messages>
+</launch4jConfig>

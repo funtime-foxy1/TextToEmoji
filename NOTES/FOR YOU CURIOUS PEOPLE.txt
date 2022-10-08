@@ -1,0 +1,1 @@
+the "paths.txt" file is the paths for the app to get files. If you edit these, you might see some big changes! for example, the first path consists of the icons. if you change that, the hole app will break! so you can go messing in there if you want.

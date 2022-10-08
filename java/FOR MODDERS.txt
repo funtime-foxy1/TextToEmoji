@@ -1,0 +1,1 @@
+this is the code for my app. very messy, i know. change it and try to go through the pain of putting it into a .jar file or something idk do what you want
