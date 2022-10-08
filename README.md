@@ -6,8 +6,10 @@ Hey! I made this for the discord users who want to speak in emojis. This program
 
 ### Steps
 - Enter text
-![image_2022-10-08_114624628](https://user-images.githubusercontent.com/70809736/194715930-140c54f4-c377-49a6-a023-74d739cf39df.png)
+![Screenshot 2022-10-08 114617](https://user-images.githubusercontent.com/70809736/194716339-10dfa47a-cf53-4c31-b657-0051f8626848.png)
+
 - Click "Convert"
-![convertbutton](https://user-images.githubusercontent.com/70809736/194715895-4800dedc-1331-42a0-a670-06a0cafc0682.png)
+![convertbutton](https://user-images.githubusercontent.com/70809736/194716344-2b15bb65-d1a0-4dfb-ada2-3f2d04ba2fe6.png)
+
 - Copy your emojis
-![copyactive](https://user-images.githubusercontent.com/70809736/194715900-2c5facdd-7387-41c4-9b25-d72dc78ac0ff.png)
+![copyactive](https://user-images.githubusercontent.com/70809736/194716351-668b15ad-d5d5-4d10-b4f3-85560b065e46.png)
